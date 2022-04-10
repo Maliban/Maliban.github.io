@@ -1,0 +1,9 @@
+.hrefColor {
+    color:#0a0;
+}
+.hrefSize {
+    color: 16px;
+}
+.App-link:not(first-child) {
+    margin-top:10px 0;
+}
